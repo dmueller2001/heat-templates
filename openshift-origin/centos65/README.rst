@@ -8,3 +8,5 @@ It includes the following template files:
 
 * `OpenShift.yaml` - deploys OpenShift Origin in an all-in-one setup (broker+console+node)
 * `OpenShift-1B1N.yaml` - deploys OpenShift Origin with separate instances for broker and node
+
+For more information on deploying and managing OpenShift Origin vist the community site here: http://origin.openshift.com
